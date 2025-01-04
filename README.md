@@ -12,4 +12,4 @@ data analysis
 2024/12 ~ 현재 - darktable project 영어 번역가(https://www.darktable.org)   
 
 
-https://www.acmicpc.net/user/p030610
+boj : https://www.acmicpc.net/user/p030610
