@@ -13,3 +13,4 @@ data analysis
 
 
 boj : https://www.acmicpc.net/user/p030610
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=p030610)](https://solved.ac/p030610/)
