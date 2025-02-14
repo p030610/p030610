@@ -1,7 +1,6 @@
 아주대학교 소프트웨어학과 재학(2020.3~)
 
 c++  
-c#  
 python  
 
 computer graphics  
