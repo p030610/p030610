@@ -8,7 +8,7 @@ data analysis
 
 2022/1 ~ 2024.2 - 주식회사 위고페어(Data Engineer)<br/>
 2024/2 ~ 2024.12 - 프리랜서(Partner of Wegofair)   
-2024/12 ~ 현재 - 학생
+2024/12 ~ 현재 - 학생(studying about cv,images,graphics)
 
 석사준비중..
 
