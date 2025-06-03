@@ -15,5 +15,3 @@ data analysis
 TOEIC 935(2024.9)
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=p030610)](https://solved.ac/p030610/)
-
-[![CodeForces Profile](https://cf.leed.at?id={hellcat0306})](https://codeforces.com/profile/{hellcat0306})
