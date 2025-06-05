@@ -13,6 +13,7 @@ data analysis
 석사준비중..
 
 TOEIC 935(2024.9)
-  
+
+![Badge](https://cp-logo.vercel.app/codeforces/hellcat0306)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=p030610)](https://solved.ac/p030610/)
-![Badge](https://cp-logo.vercel.app/codeforces/hellcat0306)
+
