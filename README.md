@@ -15,4 +15,4 @@ data analysis
 TOEIC 935(2024.9)
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=p030610)](https://solved.ac/p030610/)
-[![Badge](https://cp-logo.vercel.app/codeforces/gennady.korotkevich)]
+![Badge](https://cp-logo.vercel.app/codeforces/hellcat0306)
