@@ -1,4 +1,4 @@
-아주대학교 소프트웨어학과 재학(2020.3~)
+studying at ajou university as an undergraduate student(2020.3~)
 
 c++  
 python  
@@ -8,9 +8,9 @@ data analysis
 
 2022/1 ~ 2024.2 - 주식회사 위고페어(Data Engineer)<br/>
 2024/2 ~ 2024.12 - 프리랜서(Partner of Wegofair)   
-2024/12 ~ 현재 - 학생(studying about cv,images,graphics)
+2024/12 ~ current - returned as a student(studying about cv,images,graphics)
 
-석사준비중..
+studying for a master's degree..
 
 TOEIC 935(2024.9)
 
