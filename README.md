@@ -1,4 +1,4 @@
-studying at ajou university as an undergraduate student(2020.3~)
+Studying at ajou university as an undergraduate student(2020.3~)
 
 c++  
 python  
