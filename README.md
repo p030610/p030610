@@ -14,7 +14,7 @@ studying for a master's degree..
 
 languages
 English(pretty communicative? TOEIC 935(2024.9))  
-Japanese(can speech)  
+Japanese(intermediate.)  
 Korean(native)  
 
 
