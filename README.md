@@ -12,7 +12,11 @@ data analysis
 
 studying for a master's degree..
 
-TOEIC 935(2024.9)
+languages
+English(pretty communicative? TOEIC 935(2024.9))
+Japanese(can speech)
+Korean(native)
+
 
 ![Badge](https://cp-logo.vercel.app/codeforces/hellcat0306)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=p030610)](https://solved.ac/p030610/)
