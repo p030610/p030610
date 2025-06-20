@@ -12,7 +12,7 @@ data analysis
 
 studying for a master's degree..
 
-languages
+languages  
 English(pretty communicative? TOEIC 935(2024.9))  
 Japanese(intermediate.)  
 Korean(native)  
