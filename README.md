@@ -1,5 +1,5 @@
 2001.03.06
-Studying at ajou university as an undergraduate student(2020.3~)
+Studying at ajou university as an undergraduate student majoring in Software & Computer Engineering(2020.3~)
 
 Graduated KDMHS(16th, Web Programming)
 
