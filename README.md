@@ -1,4 +1,7 @@
+2001.03.06
 Studying at ajou university as an undergraduate student(2020.3~)
+
+Graduated KDMHS(16th)
 
 c++  
 python  
