@@ -13,7 +13,7 @@ data analysis
 2024/2 ~ 2024.12 - 프리랜서(Partner of Wegofair)   
 2024/12 ~ current - returned as a student(studying about cv,images,graphics)
 
-studying for a master's degree..
+studying for my master's degree..
 
 languages  
 English(pretty communicative? TOEIC 935(2024.9))  
