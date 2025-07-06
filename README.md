@@ -15,10 +15,15 @@ data analysis
 
 studying for my master's degree..
 
-languages  
+Languages  
 English(pretty communicative? TOEIC 935(2024.9))  
 Japanese(intermediate.)  
 Korean(native)  
+
+Certificate
+Craftsman Information
+Processing(정보처리기능사)  
+
 
 
 ![Badge](https://cp-logo.vercel.app/codeforces/hellcat0306)  
