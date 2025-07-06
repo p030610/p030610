@@ -3,6 +3,7 @@ Studying at ajou university as an undergraduate student majoring in Software & C
 
 Graduated KDMHS(16th, Web Programming)
 
+My specializations  
 c++  
 python  
 
