@@ -20,7 +20,7 @@ English(pretty communicative? TOEIC 935(2024.9))
 Japanese(intermediate.)  
 Korean(native)  
 
-Certificate
+Certificate  
 Craftsman Information
 Processing(정보처리기능사)  
 
