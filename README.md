@@ -3,28 +3,31 @@ Studying at ajou university as an undergraduate student majoring in Software & C
 
 Graduated KDMHS(16th, Web Programming)
 
-My specializations  
+
+My specializations&intersts  
 c++  
 python  
 
 computer graphics  
 data analysis  
 
+
+Experiences.  
 2022/1 ~ 2024.2 - 주식회사 위고페어(Data Engineer)<br/>
 2024/2 ~ 2024.12 - 프리랜서(Partner of Wegofair)   
 2024/12 ~ current - returned as a student(studying about cv,images,graphics)
+cnrrent ~ - studying for my master's degree..
 
-studying for my master's degree..
 
 Languages  
 English(pretty communicative? TOEIC 935(2024.9))  
 Japanese(intermediate.)  
 Korean(native)  
 
-Certificate  
+
+Certificates  
 Craftsman Information
 Processing(정보처리기능사)  
-
 
 
 ![Badge](https://cp-logo.vercel.app/codeforces/hellcat0306)  
