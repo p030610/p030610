@@ -6,8 +6,7 @@ Graduated KDMHS(16th, Web Programming)
 
 My specializations & intersts  
 c++  
-python  
-
+python
 computer graphics  
 data analysis  
 
