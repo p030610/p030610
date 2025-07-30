@@ -4,7 +4,7 @@ Studying at ajou university as an undergraduate student majoring in Software & C
 Graduated KDMHS(16th, Web Programming)
 
 
-My specializations & intersts  
+My specializations & interests  
 c++  
 python
 computer graphics  
@@ -15,7 +15,7 @@ Experiences.
 2022/1 ~ 2024.2 - 주식회사 위고페어(Data Engineer)<br/>
 2024/2 ~ 2024.12 - 프리랜서(Partner of Wegofair)   
 2024/12 ~ current - returned as a student(studying about cv,images,graphics)
-cnrrent ~ - studying for my master's degree..
+current ~ - studying for my master's degree..
 
 
 Languages  
