@@ -12,10 +12,12 @@ data analysis
 
 
 Experiences.  
-2022/1 ~ 2024.2 - 주식회사 위고페어(Data Engineer)<br/>
+2022/1 ~ 2024.2 - 주식회사 위고페어(Data Engineer)  
 2024/2 ~ 2024.12 - 프리랜서(Partner of Wegofair)   
-2024/12 ~ current - returned as a student(studying about cv,images,graphics)
-current ~ - studying for my master's degree..
+2025/9/27 - CNU programming contest(Awarded 10th place)  
+2024/12 ~ current - Returned as a student(studying about cv,images,graphics)  
+
+
 
 
 Languages  
