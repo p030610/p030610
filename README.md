@@ -22,7 +22,7 @@ current - Returned as a student(studying about cv,images,graphics)
 
 
 Languages  
-English(pretty communicative? TOEIC 935(2024.9))  
+English(pretty communicative? TOEIC 935 without study..(2024.9))  
 Japanese(intermediate.)  
 Korean(native)  
 
