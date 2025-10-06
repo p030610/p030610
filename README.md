@@ -18,7 +18,6 @@ Experiences.
 2025/9 ~ Teaching Assistant, Ajou Univ, OOP.  
   
 
-
 Languages  
 English(pretty communicative? TOEIC 935 without study..(2024.9))  
 Japanese(intermediate.)  
