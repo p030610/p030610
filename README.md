@@ -16,9 +16,7 @@ Experiences.
 2024/2 ~ 2024.12 - 프리랜서(Partner of Wegofair)   
 2025/9/27 - COSS CNU programming contest(Awarded 10th place)  
 2025/9 ~ Teaching Assistant, Ajou Univ, OOP.  
-current - Returned as a student(studying about cv,images,graphics)  
   
-
 
 
 Languages  
