@@ -32,6 +32,9 @@ Korean(native)
 
 ### Certificates  
 Craftsman Information Processing(정보처리기능사)  
+
+### Contact
+p030610@ajou.ac.kr  
   
   
 
