@@ -8,8 +8,12 @@ Studying at ajou university as an undergraduate student majoring in Software & C
 c++  
 python  
 computer graphics  
+computer vision
+image processing
 data analysis  
-problem solving
+problem solving  
+data structures  
+algorithms  
 
   
 ### Experiences
