@@ -1,6 +1,6 @@
 # Let me introduce myself.  
 2001.03.06 is my birthday.  
-Graduated KDMHS(16th, Web Programming)
+Graduated KDMHS(16th, Web Programming)  
 Studying at ajou university as an undergraduate student majoring in Software & Computer Engineering(2020.3~)
 
 
