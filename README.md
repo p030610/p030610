@@ -1,3 +1,4 @@
+#introduction  
 2001.03.06 is my birthday.  
 Studying at ajou university as an undergraduate student majoring in Software & Computer Engineering(2020.3~)
 
