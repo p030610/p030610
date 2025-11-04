@@ -25,7 +25,7 @@ algorithms
 2025/9 - COSS CNU programming contest(Awarded 10th place)  
   
 ### Languages  
-English(pretty communicative? TOEIC 935 without study..(2024.9))  
+English(pretty communicative? TOEIC 935..(2024.9))  
 Japanese(intermediate.)  
 Korean(native)  
 
