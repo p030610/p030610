@@ -31,8 +31,8 @@ Japanese(intermediate.)
 Korean(native)  
 
 ### Scholarships
-Ajou Univ, 최경희 Scholarship(2020.9)
-Ajou Univ, 다산 Scholarship(2025.9)
+Ajou Univ, 최경희 Scholarship(2020.9)  
+Ajou Univ, 다산 Scholarship(2025.9)  
 
 
 ### Certificates  
