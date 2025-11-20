@@ -22,7 +22,7 @@ algorithms
 2025/9 ~ Teaching Assistant, Ajou Univ  
 2025/11 ~ Undergraduate Research Assistant, Computer Graphics Lab, Ajou Univ.
 
-### prizes
+### Prizes
 2025/9 - COSS CNU Algorithm Competition(Awarded 10th place)  
 2025/11 - Ajou Univ, Industrial Mathematics Programming Competition(Awarded)  
   
