@@ -27,8 +27,8 @@ algorithms
 2025/11 - Ajou Univ, Industrial Mathematics Programming Competition(Awarded 3rd prize)  
   
 ### Languages  
-English(pretty communicative? TOEIC 935..(2024.9))  
-Japanese(intermediate.)  
+English(Intermediate High ~ Advanced Low. TOEIC 935..(2024.9))  
+Japanese(intermediate low.)  
 Korean(native)  
 
 ### Scholarships
