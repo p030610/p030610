@@ -25,6 +25,7 @@ algorithms
 ### Prizes
 2025/9 - COSS CNU Algorithm Competition(Awarded 10th place)  
 2025/11 - Ajou Univ, Industrial Mathematics Programming Competition(Awarded 3rd prize)  
+
   
 ### Languages  
 English(Intermediate High ~ Advanced Low. TOEIC 935..(2024.9))  
