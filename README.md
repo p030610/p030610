@@ -38,7 +38,7 @@ Ajou Univ, 다산 Scholarship(2025.9)
 
 
 ### Certificates  
-Craftsman Information Processing(정보처리기능사)  
+Craftsman Information Processing(정보처리기능사)(2019)  
 
 ### Contact
 p030610@ajou.ac.kr  
