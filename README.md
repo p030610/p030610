@@ -22,13 +22,13 @@ algorithms
 2025/9 ~ Teaching Assistant, Ajou Univ  
 2025/11 ~ Undergraduate Research Assistant, Computer Graphics Lab, Ajou Univ.
 
-### Prizes
+### Prizes 🏆  
 2025/9 - COSS CNU Algorithm Competition(Awarded 10th place)  
 2025/11 - Ajou Univ, Industrial Mathematics Programming Competition(Awarded 3rd prize)  
-2026/1 - Ajou Univ, CAU, Inha Univ, UOS, ASCII-THON(United HACKATHON of 4 Universities, Excellence Prize), Subject - A mobile application designed to protect the digitally vulnerable (e.g., the elderly) from SMS phishing (Smishing).
+2026/1 - Ajou Univ, CAU, Inha Univ, UOS, ASCII-THON(United HACKATHON of 4 Universities, Excellence Prize), Subject - A mobile application designed to protect the digitally vulnerable (e.g., the elderly) from SMS phishing (Smishing). As Team Lead.
 
   
-### Languages  
+### Languages   
 English(Intermediate High ~ Advanced Low. TOEIC 935..(2024.9))  
 Japanese(intermediate low.)  
 Korean(native)  
