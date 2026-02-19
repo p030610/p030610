@@ -17,7 +17,7 @@ algorithms
 
   
 ### Experiences
-2022/1 ~ 2024.2 - 주식회사 위고페어(Data Engineer), Designed and optimized data crawling pipelines processing over 300 websites daily using Python.  
+2022.1 ~ 2024.2 - 주식회사 위고페어(Data Engineer), Designed and optimized data crawling pipelines processing over 300 websites daily using Python.  
 2024/2 ~ 2024.12 - 프리랜서(Partner of Wegofair)   
 2025.9 ~ 2025.12 - Teaching Assistant, Objected Oriented Programming & Practice, Ajou Univ.
 2025.11 ~ Undergraduate Research Assistant, Computer Graphics Lab, Ajou Univ.
