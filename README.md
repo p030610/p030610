@@ -48,7 +48,5 @@ p030610@ajou.ac.kr
 
 
 [![Atcoder Profile](https://atcoder-badge.kro.kr?id=hellcat0306)](https://atcoder.jp/users/hellcat0306)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=p030610)](https://solved.ac/p030610/)  
 [![Donggyun's solved ac stats](https://solvedac-readme-stats.vercel.app/api?handle=p030610)](https://github.com/kookjd7759/solvedac-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p030610)](https://github.com/anuraghazra/github-readme-stats)
 
