@@ -47,6 +47,6 @@ p030610@ajou.ac.kr
   
 
 
-[![Atcoder Profile](https://atcoder-badge.kro.kr?id=hellcat0306)](https://atcoder.jp/users/hellcat0306)
-[![Donggyun's solved ac stats](https://solvedac-readme-stats.vercel.app/api?handle=p030610)](https://github.com/kookjd7759/solvedac-readme-stats)
+
+[![Donggyun's solved ac stats](https://solvedac-readme-stats.vercel.app/api?handle=p030610)](https://github.com/kookjd7759/solvedac-readme-stats) [![Atcoder Profile](https://atcoder-badge.kro.kr?id=hellcat0306)](https://atcoder.jp/users/hellcat0306)
 
