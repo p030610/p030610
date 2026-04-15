@@ -45,8 +45,7 @@ Craftsman Information Processing(정보처리기능사)(2019)
 p030610@ajou.ac.kr  
   
   
-
-
-
-[![Donggyun's solved ac stats](https://solvedac-readme-stats.vercel.app/api?handle=p030610)](https://github.com/kookjd7759/solvedac-readme-stats) [![Atcoder Profile](https://atcoder-badge.kro.kr?id=hellcat0306)](https://atcoder.jp/users/hellcat0306)
+[![LeetCode user hellcat0306](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fhellcat0306&logo=leetcode&logoColor=yellow)](https://leetcode.com/hellcat0306/)
+[![Donggyun's solved ac stats](https://solvedac-readme-stats.vercel.app/api?handle=p030610)](https://github.com/kookjd7759/solvedac-readme-stats)
+[![Atcoder Profile](https://atcoder-badge.kro.kr?id=hellcat0306)](https://atcoder.jp/users/hellcat0306)
 
