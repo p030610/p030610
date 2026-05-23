@@ -17,17 +17,17 @@ algorithms
 
   
 ### Experiences
-2022.1 ~ 2024.2 - 주식회사 위고페어(Data Engineer), Designed and optimized data crawling pipelines processing over 300 websites daily using Python.  
-2024/2 ~ 2024.12 - 프리랜서(Partner of Wegofair)   
-2025.9 ~ 2025.12 - Teaching Assistant, Objected Oriented Programming & Practice, Ajou Univ.  
-2026.3 ~ 2026.6 - Teaching Assistant, Objected Oriented Programming & Practice, Ajou Univ.  
-2025.11 ~ Undergraduate Research Assistant, Computer Graphics Lab, Ajou Univ.
+#### 2022.1 ~ 2024.2 - 주식회사 위고페어(Data Engineer), Designed and optimized data crawling pipelines processing over 300 websites daily using Python.  
+#### 2024/2 ~ 2024.12 - 프리랜서(Partner of Wegofair)   
+#### 2025.9 ~ 2025.12 - Teaching Assistant, Objected Oriented Programming & Practice, Ajou Univ.  
+#### 2026.3 ~ 2026.6 - Teaching Assistant, Objected Oriented Programming & Practice, Ajou Univ.  
+#### 2025.11 ~ Undergraduate Research Assistant, Computer Graphics Lab, Ajou Univ.
 
 ### Prizes 🏆  
-2025/9 - COSS CNU Algorithm Competition(Awarded 10th place, Individual Participant)  
-2025/11 - Ajou Univ, Dept of Mathematics, Industrial Mathematics Programming Competition(Awarded 3rd prize, Individual Participant)  
-2026/1 - Ajou Univ, CAU, Inha Univ, UOS, ASCII-THON(United HACKATHON of 4 Universities, 2nd place, Excellence Prize), Subject - A mobile application designed to protect the digitally vulnerable (e.g., the elderly) from SMS phishing (Smishing). As Team Lead, AI Engineer, Backend Engineer.  
-2026/5 - Ajou Univ Programming Contest(APC), Excellence Prize
+#### 2025/9 - COSS CNU Algorithm Competition(Awarded 10th place, Individual Participant)  
+#### 2025/11 - Ajou Univ, Dept of Mathematics, Industrial Mathematics Programming Competition(Awarded 3rd prize, Individual Participant)  
+#### 2026/1 - Ajou Univ, CAU, Inha Univ, UOS, ASCII-THON(United HACKATHON of 4 Universities, 2nd place, Excellence Prize), Subject - A mobile application designed to protect the digitally vulnerable (e.g., the elderly) from SMS phishing (Smishing). As Team Lead, AI Engineer, Backend Engineer.  
+#### 2026/5 - Ajou Univ Programming Contest(APC), Excellence Prize
 
   
 ### Languages   
