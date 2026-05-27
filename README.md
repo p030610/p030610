@@ -18,8 +18,8 @@ algorithms
   
 ### Experiences
 - 2022.1 ~ 2024.12 - 주식회사 위고페어(Full-Time Data Engineer), Designed and optimized data crawling pipelines processing over 300 websites daily using Python.  
-- 2025.9 ~ 2025.12 - Teaching Assistant, Objected Oriented Programming & Practice, Ajou Univ.  
-- 2026.3 ~ 2026.6 - Teaching Assistant, Objected Oriented Programming & Practice, Ajou Univ.  
+- 2025.9 ~ 2025.12 - Teaching Assistant, Objecte-Oriented Programming & Practice, Ajou Univ.  
+- 2026.3 ~ 2026.6 - Teaching Assistant, Objected-Oriented Programming & Practice, Ajou Univ.  
 - 2025.11 ~ Undergraduate Research Assistant, Computer Graphics Lab, Ajou Univ.
 
 ### Prizes 🏆  
