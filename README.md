@@ -31,8 +31,8 @@ algorithms
 
 
 ### Publications
-- 2026, A Pipeline for Constructing Hanwoo Digital Twins for AI-Driven Livestock Farming, KCGS 2026 (short abstract paper, submitted)
-- 2026, Controllable Speech-Driven Lip-Sync Generation for Animated Characters, KCGS 2026 (short abstract paper, submitted)
+- 2026, A Pipeline for Constructing Hanwoo Digital Twins for AI-Driven Livestock Farming, Submitted to KCGS 2026, short abstract paper
+- 2026, Controllable Speech-Driven Lip-Sync Generation for Animated Characters, Submitted to KCGS 2026, short abstract paper
 
   
 ### Languages   
