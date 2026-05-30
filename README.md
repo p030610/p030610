@@ -36,7 +36,7 @@ algorithms
 
   
 ### Languages   
-English(Intermediate High ~ Advanced Low. TOEIC 935..(2024.9))  
+English(Intermediate High ~ Advanced Low. TOEIC 935(2024.9))  
 Japanese(intermediate low.)  
 Korean(native)  
 
