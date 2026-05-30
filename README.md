@@ -28,7 +28,11 @@ algorithms
 - 2026/1 - Ajou Univ, CAU, Inha Univ, UOS, ASCII-THON(United HACKATHON of 4 Universities, 2nd place, Excellence Prize), Subject - A mobile application designed to protect the digitally vulnerable (e.g., the elderly) from SMS phishing (Smishing). As Team Lead, AI Engineer, Backend Engineer.  
 - 2026/5 - Ajou Univ Programming Contest(APC), Excellence Prize
 
-### Projects  
+
+
+### Publications
+- 2026, A Pipeline for Constructing Hanwoo Digital Twins for AI-Driven Livestock Farming, KCGS 2026(short abstract paper)
+- 2026, Controllable Speech-Driven Lip-Sync Generation for Animated Characters, KCGS 2026(short abstract paper)
 
   
 ### Languages   
