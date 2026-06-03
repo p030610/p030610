@@ -44,7 +44,7 @@ Academic Excellence Scholarship(2020, 2025)
 Craftsman Information Processing(정보처리기능사)(2019)  
 
 ### Activities  
-- 2023 ~ present - Darkroom manager, Ajou Photography Club(A.SA) - Manage darkroom facilities and equipment; lead seminars on optics, film development, and analog printing.  
+- 2025 ~ present - Darkroom manager, Ajou Photography Club(A.SA) - Manage darkroom facilities and equipment; lead seminars on optics, film development, and analog printing.  
 
 ### Contact
 p030610@ajou.ac.kr  
