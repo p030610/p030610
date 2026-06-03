@@ -47,6 +47,9 @@ Academic Excellence Scholarship(2020, 2025)
 ### Certificates  
 Craftsman Information Processing(정보처리기능사)(2019)  
 
+### Activities  
+- 2026.3 - Darkroom manager, Opened optics & film development & analog print seminar as a staff at Ajou Photography Club(ASA)  
+
 ### Contact
 p030610@ajou.ac.kr  
 
