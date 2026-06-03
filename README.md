@@ -12,7 +12,7 @@ Interests: Computer Graphics, Computer Vision, Image Processing, Motion, Data An
 
   
 ### Experiences
-- 2022.1 ~ 2024.12 - WeGoFair(Full-Time Data Engineer), brand protection / anti-counterfeiting team, Designed and optimized Python-based data crawling pipelines that processed data from 300+ websites daily for brand protection and anti-counterfeiting operations.  
+- 2022.1 ~ 2024.12 - WeGoFair(Full-Time Data Engineer), brand protection / anti-counterfeiting team, Designed and optimized Python-based data crawling pipelines that processed data from 300+ websites daily for brand protection and anti-counterfeiting operations. Processed large-scale data.  
 - 2025.9 ~ 2025.12 - Teaching Assistant, Object-Oriented Programming & Practice, Ajou Univ.  
 - 2026.3 ~ 2026.6 - Teaching Assistant, Object-Oriented Programming & Practice, Ajou Univ.  
 - 2025.11 ~ present -  Undergraduate Research Assistant, Computer Graphics Lab, Ajou Univ. Researching human and animal motion, and image processing.  
