@@ -1,44 +1,40 @@
 # Let me introduce myself.  
-2001.03.06 is my birthday.  
-Graduated KDMHS(16th, Web Programming)  
-Studying at ajou university as an undergraduate student majoring in Software & Computer Engineering(2020.3~)
+I'm an undergraduate at Ajou University majoring in Software & Computer Engineering (2020–), interested in computer graphics and vision. I work on the intersection of motion, optics, imaging, geometry, and machine learning.  
+
+### Education
+- Ajou University — B.S. in Software & Computer Engineering (2020 – present)  
+- Korea Digital Media High School (KDMHS) — 16th, Web Programming  
 
 
 ### My specializations & interests  
-c++  
-python  
-computer graphics  
-computer vision  
-image processing  
-data analysis  
-problem solving  
-data structures  
-algorithms  
+Skills: C++, Python, Data Structures & Algorithms, Problem Solving  
+Interests: Computer Graphics, Computer Vision, Image Processing, Motion, Data Analysis  
 
   
 ### Experiences
-- 2022.1 ~ 2024.12 - 주식회사 위고페어(Full-Time Data Engineer), Worked in patent technical team, Designed and optimized data crawling pipelines processing over 300 websites daily using Python.  
+- 2022.1 ~ 2024.12 - WeGoFair(Full-Time Data Engineer), brand protection / anti-counterfeiting team, Designed and optimized data crawling pipelines processing over 300 websites daily using Python.  
 - 2025.9 ~ 2025.12 - Teaching Assistant, Object-Oriented Programming & Practice, Ajou Univ.  
 - 2026.3 ~ 2026.6 - Teaching Assistant, Object-Oriented Programming & Practice, Ajou Univ.  
-- 2025.11 ~ Undergraduate Research Assistant, Computer Graphics Lab, Ajou Univ.
+- 2025.11 ~ present -  Undergraduate Research Assistant, Computer Graphics Lab, Ajou Univ. Researching human and animal motion, and image processing.  
 
 ### Prizes 🏆  
-- 2025/9 - COSS CNU Algorithm Competition(Awarded 10th place, Individual participant in team match)  
-- 2025/11 - Ajou Univ, Dept of Mathematics, Industrial Mathematics Programming Competition(Awarded 3rd prize, Individual Participant)  
-- 2026/1 - Ajou Univ, CAU, Inha Univ, UOS, ASCII-THON(United HACKATHON of 4 Universities, 2nd place, Excellence Prize), Subject - A mobile application designed to protect the digitally vulnerable (e.g., the elderly) from SMS phishing (Smishing). As Team Lead, AI Engineer, Backend Engineer.  
-- 2026/5 - Ajou Univ Programming Contest(APC), Excellence Prize
+- 2025.9 - COSS CNU Algorithm Competition(Awarded 10th place, Individual participant in team match)  
+- 2025.11 - Ajou Univ, Dept of Mathematics, Industrial Mathematics Programming Competition(Awarded 3rd prize, Individual Participant)  
+- 2026.1 - Ajou Univ, CAU, Inha Univ, UOS, ASCII-THON(United HACKATHON of 4 Universities, 2nd place, Excellence Prize), Subject - A mobile application designed to protect the digitally vulnerable (e.g., the elderly) from SMS phishing (Smishing). As Team Lead, AI Engineer, Backend Engineer.  
+- 2026.5 - Ajou Univ Programming Contest(APC), Excellence Prize
 
 
 
 ### Publications
-- 2026/5, A Pipeline for Constructing Hanwoo Digital Twins for AI-Driven Livestock Farming, Submitted to KCGS 2026, short abstract paper
-- 2026/5, Controllable Speech-Driven Lip-Sync Generation for Animated Characters, Submitted to KCGS 2026, short abstract paper
+
+- 2026.5 — A Pipeline for Constructing Hanwoo Digital Twins for AI-Driven Livestock Farming. Under review, KCGS 2026 (short abstract). First author.  
+- 2026.5 - Controllable Speech-Driven Lip-Sync Generation for Animated Characters. Under review, KCGS 2026 (short abstract).
 
   
 ### Languages   
-English(Intermediate High ~ Advanced Low. TOEIC 935(2024.9))  
-Japanese(intermediate low.)  
-Korean(native)  
+English(Professional working proficiency. TOEIC 935(2024.9))  
+Japanese(Intermediate.)  
+Korean(Native.)  
 
 ### Scholarships
 Academic Excellence Scholarship(2020, 2025)  
