@@ -2,11 +2,11 @@
 I'm an undergraduate at Ajou University majoring in Software & Computer Engineering (2020–), interested in computer graphics and vision. I work on the intersection of motion, optics, imaging, geometry, and machine learning.  
 
 ### Education
-- Ajou University — B.S. in Software & Computer Engineering (2020 – present)  
-- Korea Digital Media High School (KDMHS) — 16th, Web Programming (2017-2019)
+
 - Gyeonggi Science High School Informatics Education Center,
 Completed the Informatics and Computer Science Program (2013-2015)
-
+- Korea Digital Media High School (KDMHS) — 16th, Web Programming (2017-2019)
+- Ajou University — B.S. in Software & Computer Engineering (2020 – present)  
 
 ### My specializations & interests  
 Skills: C++, Python, Data Structures & Algorithms, Problem Solving  
