@@ -16,7 +16,7 @@ Interests: Computer Graphics, Computer Vision, Image Processing, Motion, Data An
 - 2025.9 ~ 2025.12 - Teaching Assistant, Object-Oriented Programming & Practice, Ajou Univ.  
 - 2026.3 ~ 2026.6 - Teaching Assistant, Object-Oriented Programming & Practice, Ajou Univ.  
 - 2025.11 ~ present -  Undergraduate Research Assistant, Computer Graphics Lab, Ajou Univ. Researching human and animal motion, and image processing.
-- 2026.6 ~ present - Research Intern, Ssnetworks.  Building a dataset construction pipeline for AI-driven livestock farming, supporting data generation, preprocessing, and validation workflows for downstream computer vision applications.
+- 2026.6 ~ 2026.8 - Research Intern, Ssnetworks.  Building a dataset construction pipeline for AI-driven livestock farming, supporting data generation, preprocessing, and validation workflows for downstream computer vision applications.
 
 
 ### Publications
