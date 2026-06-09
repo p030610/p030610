@@ -20,8 +20,8 @@ Interests: Computer Graphics, Computer Vision, Image Processing, Motion, Data An
 
 
 ### Publications
-- 2026.5 — A Pipeline for Constructing Hanwoo Digital Twins for AI-Driven Livestock Farming. Accepted. KCGS 2026 (short abstract). First author.  
-- 2026.5 - Controllable Speech-Driven Lip-Sync Generation for Animated Characters. Accepted. KCGS 2026 (short abstract). Co-author.
+- 2026.5 — A Pipeline for Constructing Hanwoo Digital Twins for AI-Driven Livestock Farming. Accepted. KCGS 2026, First author.  
+- 2026.5 - Controllable Speech-Driven Lip-Sync Generation for Animated Characters. Accepted. KCGS 2026, Co-author.
 
 
 ### Prizes  
