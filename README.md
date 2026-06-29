@@ -32,7 +32,7 @@ Interests: Computer Graphics, Computer Vision, Image Processing, Motion, Data An
   
 ### Languages   
 English(Professional working proficiency. TOEIC 935(2024.9))  
-Japanese(Intermediate.)  
+Japanese(Conversational.)  
 Korean(Native.)  
 
 ### Scholarships
