@@ -1,5 +1,6 @@
 # About me.
-I'm an undergraduate at Ajou University majoring in Software & Computer Engineering (2020–), interested in computer graphics and vision. I work on the intersection of motion, optics, imaging, geometry, and machine learning.  
+I'm an undergraduate at Ajou University majoring in Software & Computer Engineering (2020–).  
+I study computational imaging and geometry-aware learning for reconstructing motion and appearance from real-world visual measurements.  
 
 ### Education
 
