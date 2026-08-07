@@ -32,7 +32,7 @@ Nov. 2025 – Present
 
 ### Research Intern
 **SSNetworks**  
-Jun. 2026 – Aug. 2026
+Jun. 2026 – present.
 
 - Worked on data generation and processing for AI-driven livestock vision systems.
 - Developed synthetic data generation, annotation, preprocessing, and validation workflows for downstream computer vision applications.
