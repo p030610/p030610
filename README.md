@@ -1,53 +1,145 @@
-# About me.
-I'm an undergraduate at Ajou University majoring in Software & Computer Engineering (2020–).  
-I study computational imaging and geometry-aware learning for reconstructing motion and appearance from real-world visual measurements.  
+# About Me
 
-### Education
+I'm an undergraduate at **Ajou University** majoring in **Software & Computer Engineering** (2020–).
 
-- Korea Digital Media High School (KDMHS) — 16th, Web Programming (2017-2019)
-- Ajou University — B.S. in Software & Computer Engineering (2020 – present)  
+I study **computational imaging and geometry-aware learning for reconstructing motion and appearance from real-world visual measurements**.
 
-### My specializations & interests  
-Skills: C++, Python, Data Structures & Algorithms, Problem Solving  
-Interests: Computer Graphics, Computer Vision, Image Processing, Motion, Data Analysis  
+---
 
-  
-### Experiences
-- 2022.1 ~ 2024.12 - WeGoFair(Full-Time Data Engineer), brand protection / anti-counterfeiting team, Designed and optimized Python-based data crawling pipelines that processed data from 300+ websites daily for brand protection and anti-counterfeiting operations. Processed large-scale data.  
-- 2025.9 ~ 2025.12 - Teaching Assistant, Object-Oriented Programming & Practice, Ajou Univ.  
-- 2026.3 ~ 2026.6 - Teaching Assistant, Object-Oriented Programming & Practice, Ajou Univ.  
-- 2025.11 ~ present -  Undergraduate Research Assistant, Computer Graphics Lab, Ajou Univ. Researching human and animal motion, and image processing.
-- 2026.6 ~ 2026.8 - Research Intern, Ssnetworks.  Building a dataset construction pipeline for AI-driven livestock farming, supporting data generation, preprocessing, and validation workflows for downstream computer vision applications.
+## Education
 
+- **Ajou University** — B.S. in Software & Computer Engineering (2020–Present)
+- **Korea Digital Media High School (KDMHS)** — Web Programming, 16th (2017–2019)
 
-### Publications
-- 2026.5 — A Pipeline for Constructing Hanwoo Digital Twins for AI-Driven Livestock Farming. Accepted. KCGS 2026, First author.  
-- 2026.5 - Controllable Speech-Driven Lip-Sync Generation for Animated Characters. Accepted. KCGS 2026, Co-author.
+---
 
+## Research Interests & Skills
 
-### Prizes  
-- 2025.9 - COSS CNU Algorithm Competition(Awarded 10th place, Individual participant in team match)  
-- 2025.11 - Ajou Univ, Dept of Mathematics, Industrial Mathematics Programming Competition(Awarded 3rd prize, Individual Participant)  
-- 2026.1 - Ajou Univ, CAU, Inha Univ, UOS, ASCII-THON(United HACKATHON of 4 Universities, 2nd place, Excellence Prize), Subject - A mobile application designed to protect the digitally vulnerable (e.g., the elderly) from SMS phishing (Smishing). As Team Lead, AI Engineer, Backend Engineer.  
-- 2026.5 - Ajou Univ Programming Contest(APC), Division 1, Excellence Prize
-  
-### Languages   
-English(Professional working proficiency. TOEIC 935(2024.9))  
-Japanese(Conversational.)  
-Korean(Native.)  
+**Research Interests:** Computer Graphics, Computer Vision, Computational Imaging, Image Processing, Motion Representation, Visual Data Analysis
 
-### Scholarships
-Academic Excellence Scholarship(2020, 2025)  
+**Programming & Algorithms:** C++, Python, Data Structures & Algorithms, Problem Solving
 
+---
 
-### Certificates  
-Craftsman Information Processing(정보처리기능사)(2019)  
+## Research Experience
 
-### Activities  
-- 2025 ~ present - Darkroom manager, Ajou Photography Club(A.SA) - Manage darkroom facilities and equipment; lead seminars on optics, film development, and analog printing.  
+### Undergraduate Research Assistant
+**Computer Graphics Lab, Ajou University**  
+Nov. 2025 – Present
 
-### Contact
-p030610@ajou.ac.kr  
+- Conduct research on facial animation, motion representation, and image synthesis.
+- Explore explicit geometric representations for controllable visual synthesis.
+
+### Research Intern
+**SSNetworks**  
+Jun. 2026 – Aug. 2026
+
+- Worked on data generation and processing for AI-driven livestock vision systems.
+- Developed synthetic data generation, annotation, preprocessing, and validation workflows for downstream computer vision applications.
+
+---
+
+## Selected Research Projects
+
+### Controllable Speech-Driven Lip-Sync Generation for Animated Characters
+
+**Computer Graphics Lab, Ajou University**
+
+- Co-developed a speech-driven facial animation framework using **explicit lip geometry as an intermediate representation**.
+- Predicted temporally synchronized lip landmarks from **Wav2Vec2 speech representations**.
+- Used a **6-DoF facial pose representation** for pose-aware mouth synthesis.
+- Incorporated a **Teeth Score** to model intra-oral appearance not sufficiently represented by lip landmarks alone.
+- Integrated synthesized mouth regions using **coherence-transport inpainting and Poisson blending**.
+
+### Synthetic Visual Data Generation for AI-Driven Livestock Farming
+
+**Ajou University**
+
+- Developed a **Blender/Python-based synthetic dataset generation pipeline** for cattle behavior recognition and pose estimation.
+- Generated **39-point pose annotations** through 3D-to-2D camera projection.
+- Implemented **ray-casting-based landmark visibility reasoning** under occlusion.
+- Automatically generated bounding boxes and structured metadata directly from 3D geometry.
+- Generated **100 diversified cattle models and 5,000 annotated scenes**.
+
+---
+
+## Publications
+
+- **Sungjae Park**, Sangeun Lee, Aqilah Shahira binti Zulkifle, Hwanyong Lee.  
+  **"A Pipeline for Constructing a Hanwoo Training Dataset for AI-Driven Livestock Farming."**  
+  *Korea Computer Graphics Society Conference (KCGS), 2026.*  
+  **First Author · Poster Presentation**
+
+- Chuyan Quan, **Sungjae Park**, Ri Yu.  
+  **"Controllable Speech-Driven Lip-Sync Generation for Animated Characters."**  
+  *Korea Computer Graphics Society Conference (KCGS), 2026.*
+
+---
+
+## Industry & Teaching Experience
+
+### Data Engineer
+**WeGoFair — Brand Protection / Anti-Counterfeiting Team**  
+Jan. 2022 – Dec. 2024
+
+- Designed and optimized Python-based data acquisition pipelines processing data from **300+ websites daily**.
+- Worked with large-scale heterogeneous web data and automated data-processing workflows.
+
+### Teaching Assistant
+**Object-Oriented Programming & Practice, Ajou University**  
+Sep. 2025 – Dec. 2025  
+Mar. 2026 – Jun. 2026
+
+- Assisted undergraduate instruction in object-oriented programming and software design.
+- Supported programming assignments, debugging, and student evaluation.
+
+---
+
+## Selected Awards
+
+- **Excellence Prize**, Ajou University Programming Contest (APC), Division 1 — May 2026
+- **2nd Place / Excellence Prize**, ASCII-THON, Ajou–CAU–Inha–UOS Joint Hackathon — Jan. 2026  
+  - Team Lead, AI Engineer, Backend Engineer
+  - Developed a mobile application for protecting digitally vulnerable users from SMS phishing
+- **3rd Prize**, Industrial Mathematics Programming Competition, Department of Mathematics, Ajou University — Nov. 2025
+- **10th Place**, COSS CNU Algorithm Competition — Sep. 2025
+
+---
+
+## Scholarships
+
+- **Academic Excellence Scholarship**, Ajou University — 2020, 2025
+
+---
+
+## Languages
+
+- **Korean** — Native
+- **English** — Professional Working Proficiency · TOEIC 935 (Sep. 2024)
+- **Japanese** — Conversational
+
+---
+
+## Certifications
+
+- **Craftsman Information Processing (정보처리기능사)** — 2019
+
+---
+
+## Activities
+
+### Darkroom Manager
+**Ajou University Photography Club (A.SA)**  
+Mar. 2025 – Present
+
+- Manage darkroom facilities and analog photography equipment.
+- Lead seminars on **optics, film development, and analog printing**.
+
+---
+
+## Contact
+
+**Email:** p030610@ajou.ac.kr
 
   
 ![](https://komarev.com/ghpvc/?username=p030610)  
