@@ -86,11 +86,11 @@ Jan. 2022 – Dec. 2024
 - Worked with large-scale heterogeneous web data and automated data-processing workflows.
 
 ### Teaching Assistant
-**Object-Oriented Programming & Practice, Ajou University**  
+**Object-Oriented Programming & Practice (M035), Ajou University**  
 Sep. 2025 – Dec. 2025  
 Mar. 2026 – Jun. 2026
 
-**Computer Programming & Practice, Ajou University**  
+**Computer Programming & Practice (M003), Ajou University**  
 Sep. 2026 – Dec. 2026  
 
 - Assisted undergraduate instruction in object-oriented programming and software design.
