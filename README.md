@@ -34,7 +34,7 @@ Nov. 2025 – Present
 **SSNetworks**  
 Jun. 2026 – present.
 
-- Worked on data generation and processing for AI-driven livestock vision systems.
+- Researched on data generation and processing for AI-driven livestock vision systems.
 - Developed synthetic data generation, annotation, preprocessing, and validation workflows for downstream computer vision applications.
 
 ---
@@ -90,10 +90,11 @@ Jan. 2022 – Dec. 2024
 Sep. 2025 – Dec. 2025  
 Mar. 2026 – Jun. 2026
 
+- Assisted undergraduate instruction in object-oriented programming and software design.
+
 **Computer Programming & Practice (M003), Ajou University**  
 Sep. 2026 – Dec. 2026  
 
-- Assisted undergraduate instruction in object-oriented programming and software design.
 - Supported programming assignments, debugging, and student evaluation.
 
 ---
