@@ -90,6 +90,9 @@ Jan. 2022 – Dec. 2024
 Sep. 2025 – Dec. 2025  
 Mar. 2026 – Jun. 2026
 
+**Computer Programming & Practice, Ajou University**  
+Sep. 2026 – Dec. 2026  
+
 - Assisted undergraduate instruction in object-oriented programming and software design.
 - Supported programming assignments, debugging, and student evaluation.
 
