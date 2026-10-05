@@ -101,6 +101,9 @@ Sep. 2026 – Dec. 2026
 
 ## Selected Awards
 
+
+- **Bronze Prize**, CNU Sw-it Algorithm Competition, with Ajou Univ, Kyeonghee Univ, KAIST  
+
 - **Excellence Prize**, Ajou University Programming Contest (APC), Division 1 — May 2026
 - **2nd Place / Excellence Prize**, ASCII-THON, Ajou–CAU–Inha–UOS Joint Hackathon — Jan. 2026  
   - Team Lead, AI Engineer, Backend Engineer
