@@ -19,7 +19,7 @@ I study **computational imaging and geometry-aware learning for reconstructing m
 
 **Programming & Algorithms:** C++, Python, Data Structures & Algorithms, Problem Solving  
 
-**Selected Courseworks:** Linear Algebra, Artificial Intelligence, Animation Theory, Image Processing
+**Selected Courseworks:** Linear Algebra, Artificial Intelligence, Animation Theory, Digital Image Processing
 
 ---
 
