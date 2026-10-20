@@ -17,7 +17,9 @@ I study **computational imaging and geometry-aware learning for reconstructing m
 
 **Research Interests:** Computer Graphics, Computer Vision, Computational Imaging, Image Processing, Motion Representation, Visual Data Analysis
 
-**Programming & Algorithms:** C++, Python, Data Structures & Algorithms, Problem Solving
+**Programming & Algorithms:** C++, Python, Data Structures & Algorithms, Problem Solving  
+
+**Selected Courseworks:** Linear Algebra, Artificial Intelligence, Animation Theory, Image Processing
 
 ---
 
